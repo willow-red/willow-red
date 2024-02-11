@@ -1,4 +1,8 @@
-### Hi there 👋
+### red's computer  ༘˚⋆𐙚｡⋆𖦹.✧˚
+name: *red*  
+pronouns: *she/her*  
+interests: *art, web development, design, the internet, games, computers*  
+currently: *art and computer programming student at usc + making websites*
 
 <!--
 **willow-red/willow-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
