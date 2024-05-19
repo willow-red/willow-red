@@ -2,7 +2,8 @@
 name: *red*  
 pronouns: *she/her*  
 interests: *art, web development, design, the internet, games, computers*  
-currently: *art and computer programming student at usc + making websites*
+currently: *incoming master's student at the university of washington — human-centered design and engineering*
+previously: *art and computer programming student at usc, teaching assistant for usc web dev*
 
 <!--
 **willow-red/willow-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
