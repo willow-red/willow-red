@@ -2,7 +2,7 @@
 name: *red*  
 pronouns: *she/her*  
 interests: *art, web development, design, the internet, games, computers*  
-currently: *incoming master's student at the university of washington — human-centered design and engineering*  
+currently: *master's student at the university of washington — human-centered design and engineering, web accessibility auditing*  
 previously: *art and computer programming student at usc, teaching assistant for usc web dev*
 
 <!--
