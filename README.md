@@ -1,6 +1,6 @@
 ### red's computer  ༘˚⋆𐙚｡⋆𖦹.✧˚
 name: *red*  
-pronouns: *she/her*  
+pronouns: *she/they*  
 interests: *art, web development, design, the internet, games, computers*  
 currently: *master's student at the university of washington — human-centered design and engineering, web accessibility auditing*  
 previously: *art and computer programming student at usc, teaching assistant for usc web dev*
