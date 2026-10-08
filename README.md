@@ -1,9 +1,10 @@
 ### red's computer  ༘˚⋆𐙚｡⋆𖦹.✧˚
 name: *red*  
 pronouns: *she/they*  
-interests: *art, web development, design, the internet, games, computers*  
-currently: *master's student at the university of washington — human-centered design and engineering, web accessibility auditing, frontend dev*  
-previously: *art and computer programming student at usc, teaching assistant for usc web dev*
+interests: *art, web development, accessibility, design, the internet, games, computers*
+currently: *web accessibility auditing, frontend dev*
+previously: *master's student at the university of washington — human-centered design and engineering, art and computer programming student at usc, teaching assistant for usc web dev*
+ask me about: *digital accessibility and disability rights!*
 
 <!--
 **willow-red/willow-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
